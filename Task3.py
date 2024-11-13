@@ -1,5 +1,3 @@
-import statistics
-
 class firstClass:
     
     def __init__(self,a,b,c,d,e):
